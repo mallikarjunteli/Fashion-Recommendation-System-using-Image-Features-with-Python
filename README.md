@@ -35,5 +35,6 @@ Preprocess the image to prepare it for feature extraction.
 Extract features from this image using the pre-trained CNN model (e.g., VGG16).
 Compare these features with features from other fashion images in the dataset using cosine similarity.
 Identify and display the top N images (excluding the input image itself) that are most similar in terms of visual appearance.
+
 Summary:
 Building a Fashion Recommendation System using Image Features involves leveraging deep learning models to extract meaningful features from fashion images. These features are then used to compute similarities and recommend visually similar fashion items to users based on their preferences or input images. This process combines computer vision techniques with machine learning to enhance the user experience in fashion recommendation applications.
